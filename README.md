@@ -74,7 +74,7 @@ Te compartimos las ligas de acceso a zoom para las sesiones calendarizadas.
 [Kickoff Slides](./Material%20Adicional/Kickoff%20_%20Gen%20AI%20Boost%20_%20Q3-2024%20_%20Google%20Partnership.pdf)
 
 # Grabaciones
-Todas las grabaciones de las sesiones y study jams podrás visualizarlos un día después de la sesión en vivo en la siguiente liga: [Playlist Gen AI Boost](https://www.youtube.com/playlist?list=PLQmYtfk1yvf45KcDfcBc2nH7xDQsx7Qjy)
+Todas las grabaciones de las sesiones y study jams podrás visualizarlos un día después de la sesión en vivo en la siguiente playlist: [Gen AI Boost Program 1er edición](https://www.youtube.com/playlist?list=PLQmYtfk1yvf45KcDfcBc2nH7xDQsx7Qjy)
 
 # Contacto WizeAcademy
 Si tienes alguna duda sobre el programa, logística, accesos, etc., por favor contacta al equipo de Wizeline DSA.
